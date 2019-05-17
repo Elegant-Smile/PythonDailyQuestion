@@ -10,4 +10,7 @@
 a 说他不和 x 比， c 说他不和 x,z 比，请找出三队赛手的名单。
 
 ```
-![就是想放一张图片](https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-364042.png)
+![就是想放
+
+
+![一张图片](https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-364042.png)
