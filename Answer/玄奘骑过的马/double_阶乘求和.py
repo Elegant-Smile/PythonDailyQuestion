@@ -12,7 +12,6 @@ def factorialAdd():
     print(sums+1)
 
 
-
 if __name__ =="__main__":
     factorialAdd()
 
