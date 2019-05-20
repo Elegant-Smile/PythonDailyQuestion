@@ -1,3 +1,6 @@
+__author__ = "Yuzhou_1shu"
+
+
 number = input("请输入一个不多于5位的正整数：")
 if len(number) > 5 or int(number) < 0:
     print("Error, 请输入一个不多于5位的正整数：")
