@@ -9,7 +9,7 @@ int main(void) {
     while(1){
         if (numbers==PEOPLES) break;
 
-        printf("please input your gender(f:feman,m:man)\n");
+        printf("please input your gender(f:female,m:man)\n");
         scanf("%c",&gender);
         while(getchar()!='\n') continue;
         if((gender!='f')&&(gender!='m')){
@@ -31,7 +31,7 @@ int main(void) {
             count+=1;
             printf("Congratulation,you can jion in us\n");
         }else{
-            printf("Sorry,we need femal and that her age is (10,12)\n");
+            printf("Sorry,we need female and that her age is (10,12)\n");
         }
     }
     printf("%d in our Standard",count);
