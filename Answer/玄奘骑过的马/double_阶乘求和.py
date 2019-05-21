@@ -2,7 +2,6 @@
 #Author:Oldyuan
 
 
-
 def factorialAdd():
     sums = 1
     for i in range(2,20):
@@ -12,8 +11,13 @@ def factorialAdd():
     print(sums+1)
 
 
+def theGame():
+    pass
+
+
 if __name__ =="__main__":
     factorialAdd()
+    theGame()
 
 
 
