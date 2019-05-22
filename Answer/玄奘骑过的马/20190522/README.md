@@ -19,3 +19,5 @@
 第三、第四、第五只猴子都是这样做的，问海滩上原来最少有多少个桃子？ 
 
 ```
+
+![](https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-16654.jpg)
