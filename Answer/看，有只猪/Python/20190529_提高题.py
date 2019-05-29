@@ -1,5 +1,3 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
 import os
 
 
@@ -16,6 +14,7 @@ def word_counter(file_path):
                     counter[word] += 1
                 else:
                     counter[word] = 1
-
-    for word, count in counter.items():
+                    
+    counter=sorted(counter.items(),key=lambda item:item[1],reverse=True)
+    for word, count in counter:
         print(f"{word}:{count}")
