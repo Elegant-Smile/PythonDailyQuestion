@@ -34,3 +34,6 @@ my_list_name 下划线命名 见名知义中间有下划线 python中变量与�
 myListName 驼峰命名 首个单词小写其他单词首字线大写 python中不常用
 MyListName Pascal命名 python中类名常用
 listMyListName 匈牙利命名法 第一个单词小写而且表示类型后面单词首字母大写 python中不常用
+
+
+![](https://w.wallhaven.cc/full/md/wallhaven-mdw9x1.jpg)
