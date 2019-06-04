@@ -11,4 +11,4 @@ B[i]=A[0] A[1] ...  A[i-1] A[i+1]... A[n-1]。
 
 ```
 ![](https://w.wallhaven.cc/full/96/wallhaven-968z18.jpg)
-
+![](https://w.wallhaven.cc/full/73/wallhaven-739xme.png)
