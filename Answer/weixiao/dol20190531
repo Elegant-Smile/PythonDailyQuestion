@@ -1,0 +1,4 @@
+def dol(s, c, f):
+    final = (s - c)/(s - c - f)
+    return final
+print(dol(20, 11, 3))
