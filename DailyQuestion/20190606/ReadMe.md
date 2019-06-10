@@ -2,8 +2,9 @@
 
 ####  基础题：
 
-```python
-用Python Turtle 模块，画出分形树（Fractal tree），科赫雪花曲线（Koch snowflake）和龙形曲线（Dragon curve）。
+```
+用Python Turtle 模块，画出分形树（Fractal tree），
+科赫雪花曲线（Koch snowflake）和龙形曲线（Dragon curve）。
 ```
 
 #### 提高题：
