@@ -14,6 +14,12 @@ def intNumeber():
             num2.append(i)
     print(num2)
 
+def is_Number(s):
+    try:
+        num = float(s)
+        return True
+    except:
+        return False
 
 
 
@@ -43,6 +49,9 @@ def main():
     turtle.hideturtle()
     done()
 
+if __name__ == "__main__":
+    intNumeber()
+    is_Number()
 
 
 if __name__ == "__main__":
