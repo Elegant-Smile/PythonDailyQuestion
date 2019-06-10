@@ -52,11 +52,11 @@ def main():
 if __name__ == "__main__":
     intNumeber()
     is_Number()
+
+
+if __name__ == "__main__":
+    # intNumeber()
     main()
-
-# if __name__ == "__main__":
-#     # intNumeber()
-
 
 
 
