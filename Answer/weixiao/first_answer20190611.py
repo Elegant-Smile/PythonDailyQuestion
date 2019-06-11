@@ -1,0 +1,6 @@
+num = input('please input a number>>>')
+dec_num = int(num)
+print(dec_num)
+print(oct(dec_num))
+print(hex(dec_num).upper())
+print(bin(dec_num))
