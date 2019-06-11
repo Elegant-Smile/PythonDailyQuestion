@@ -1,0 +1,6 @@
+def findFirstUnique(str):
+	l = list(str)
+	l_unique = []
+	for i in range(len(l)):
+		if l.count(l[i])==1:
+			return(l[i])
