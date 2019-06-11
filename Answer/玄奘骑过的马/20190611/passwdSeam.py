@@ -3,7 +3,7 @@
 # ChangeTime: 2019/6/11 9:56
 # FileName: passwdSeam.py
 
-
+# count num = 1
 # def userPasswd():
 #
 #     username = input('请输入用户名：')
@@ -40,7 +40,6 @@ def userPasswd():
 
 
 if __name__ == "__main__":
-    num = 1
     userPasswd()
 
 
