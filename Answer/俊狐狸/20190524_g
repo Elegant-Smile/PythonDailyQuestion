@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+# -*- coding:utf-8 -*-
+# author: Abner Han 
+# time:2019/6/13
+# 设计一个重量转换器，输入以“g”为单位的数字后返回换算成“kg”的结果
+
+g = int(input("Please input weight:"))
+kg = g/1000
+print(kg)
