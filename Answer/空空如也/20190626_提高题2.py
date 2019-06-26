@@ -4,6 +4,7 @@ __email__ = 'xixin.he@gmail.com'
 import requests
 from requests.exceptions import *
 from time import sleep
+from collections import ChainMap
 
 def exit_on_multiple_fail(fail_counter):
     def decorator(func):
