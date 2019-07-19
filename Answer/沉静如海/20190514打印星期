@@ -1,0 +1,15 @@
+days = {
+    'm':"Monday",
+    'tu':"Tuesday",
+    'w':"Wednesday",
+    'th':"Thursday",
+    'f':"Friday",
+    'sa':"Saturday",
+    'su':"Sunday",
+  }
+while(1):
+  s1 = input("请输入第一个字母：")
+  if (s1 == 't' or 's'):
+    s2 = input("请输入第二个字母：")
+    s1 = s1+s2   
+  print(days[s1])
